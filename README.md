@@ -62,13 +62,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
     – @SADuck
 
-
----
-
-### ✅ What to Do Next:
-- Save this as `README.md` in the same folder.
-- Add a screenshot and name it `screenshot.png`.
-- Replace `YOUR_USERNAME` and `Your Name` with your GitHub info.
-- Commit and push to your repo!
-
-Need help creating the screenshot or uploading to GitHub?
