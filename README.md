@@ -29,20 +29,7 @@ A modern and simple Python desktop app to analyze any GitHub profile — built w
 - Python 3.6+
 - `requests` library (install with `pip`)
 
-### 💻 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/github-profile-analyzer.git
-cd github-profile-analyzer
-
-    Install the required library:
-
-pip install requests
-
-    Run the app:
-
-python analyzer_gui.py ```
+Example:
 
 🛠️ Technologies Used
 
