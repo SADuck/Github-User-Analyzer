@@ -42,7 +42,7 @@ pip install requests
 
     Run the app:
 
-python analyzer_gui.py
+python analyzer_gui.py ```
 
 🛠️ Technologies Used
 
